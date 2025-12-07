@@ -1,0 +1,121 @@
+cultivo,año,mes,precio_promedio_soles_kg,precio_minimo,precio_maximo,volumen_comercializado_tn,region_principal
+Maíz,2023,Enero,1.85,1.60,2.10,12500,La Libertad
+Maíz,2023,Febrero,1.90,1.65,2.15,11800,La Libertad
+Maíz,2023,Marzo,1.95,1.70,2.20,13200,La Libertad
+Maíz,2023,Abril,2.00,1.75,2.25,14500,La Libertad
+Maíz,2023,Mayo,2.05,1.80,2.30,15800,La Libertad
+Maíz,2023,Junio,2.10,1.85,2.35,16200,La Libertad
+Maíz,2023,Julio,2.00,1.75,2.25,14800,La Libertad
+Maíz,2023,Agosto,1.95,1.70,2.20,13500,La Libertad
+Maíz,2023,Septiembre,1.90,1.65,2.15,12800,La Libertad
+Maíz,2023,Octubre,1.85,1.60,2.10,12200,La Libertad
+Maíz,2023,Noviembre,1.88,1.63,2.13,12600,La Libertad
+Maíz,2023,Diciembre,1.92,1.67,2.17,13000,La Libertad
+Papa,2023,Enero,1.45,1.10,1.80,25400,Junín
+Papa,2023,Febrero,1.50,1.15,1.85,24800,Junín
+Papa,2023,Marzo,1.65,1.30,2.00,28500,Junín
+Papa,2023,Abril,1.80,1.45,2.15,32200,Junín
+Papa,2023,Mayo,1.95,1.60,2.30,35800,Junín
+Papa,2023,Junio,2.10,1.75,2.45,38500,Junín
+Papa,2023,Julio,1.85,1.50,2.20,33200,Junín
+Papa,2023,Agosto,1.65,1.30,2.00,28800,Junín
+Papa,2023,Septiembre,1.55,1.20,1.90,26500,Junín
+Papa,2023,Octubre,1.50,1.15,1.85,24800,Junín
+Papa,2023,Noviembre,1.52,1.17,1.87,25200,Junín
+Papa,2023,Diciembre,1.48,1.13,1.83,24500,Junín
+Arroz,2023,Enero,2.45,2.20,2.70,18500,Lambayeque
+Arroz,2023,Febrero,2.50,2.25,2.75,18200,Lambayeque
+Arroz,2023,Marzo,2.55,2.30,2.80,19800,Lambayeque
+Arroz,2023,Abril,2.60,2.35,2.85,21200,Lambayeque
+Arroz,2023,Mayo,2.65,2.40,2.90,22500,Lambayeque
+Arroz,2023,Junio,2.70,2.45,2.95,23800,Lambayeque
+Arroz,2023,Julio,2.65,2.40,2.90,22800,Lambayeque
+Arroz,2023,Agosto,2.55,2.30,2.80,21500,Lambayeque
+Arroz,2023,Septiembre,2.50,2.25,2.75,20200,Lambayeque
+Arroz,2023,Octubre,2.48,2.23,2.73,19800,Lambayeque
+Arroz,2023,Noviembre,2.52,2.27,2.77,20500,Lambayeque
+Arroz,2023,Diciembre,2.48,2.23,2.73,19500,Lambayeque
+Trigo,2023,Enero,1.95,1.70,2.20,8500,Cajamarca
+Trigo,2023,Febrero,2.00,1.75,2.25,8200,Cajamarca
+Trigo,2023,Marzo,2.05,1.80,2.30,9200,Cajamarca
+Trigo,2023,Abril,2.10,1.85,2.35,10500,Cajamarca
+Trigo,2023,Mayo,2.15,1.90,2.40,11800,Cajamarca
+Trigo,2023,Junio,2.20,1.95,2.45,12500,Cajamarca
+Trigo,2023,Julio,2.15,1.90,2.40,11500,Cajamarca
+Trigo,2023,Agosto,2.10,1.85,2.35,10200,Cajamarca
+Trigo,2023,Septiembre,2.05,1.80,2.30,9500,Cajamarca
+Trigo,2023,Octubre,2.00,1.75,2.25,8800,Cajamarca
+Trigo,2023,Noviembre,2.02,1.77,2.27,9000,Cajamarca
+Trigo,2023,Diciembre,1.98,1.73,2.23,8600,Cajamarca
+Quinua,2023,Enero,8.50,7.50,9.50,1250,Puno
+Quinua,2023,Febrero,8.75,7.75,9.75,1180,Puno
+Quinua,2023,Marzo,9.00,8.00,10.00,1420,Puno
+Quinua,2023,Abril,9.25,8.25,10.25,1680,Puno
+Quinua,2023,Mayo,9.50,8.50,10.50,1850,Puno
+Quinua,2023,Junio,9.75,8.75,10.75,2020,Puno
+Quinua,2023,Julio,9.50,8.50,10.50,1880,Puno
+Quinua,2023,Agosto,9.25,8.25,10.25,1650,Puno
+Quinua,2023,Septiembre,9.00,8.00,10.00,1420,Puno
+Quinua,2023,Octubre,8.85,7.85,9.85,1320,Puno
+Quinua,2023,Noviembre,8.95,7.95,9.95,1380,Puno
+Quinua,2023,Diciembre,8.70,7.70,9.70,1280,Puno
+Espárrago,2023,Enero,6.50,5.80,7.20,4500,Ica
+Espárrago,2023,Febrero,6.75,6.05,7.45,4320,Ica
+Espárrago,2023,Marzo,7.00,6.30,7.70,5100,Ica
+Espárrago,2023,Abril,7.25,6.55,7.95,5850,Ica
+Espárrago,2023,Mayo,7.50,6.80,8.20,6400,Ica
+Espárrago,2023,Junio,7.75,7.05,8.45,6920,Ica
+Espárrago,2023,Julio,7.50,6.80,8.20,6500,Ica
+Espárrago,2023,Agosto,7.25,6.55,7.95,5950,Ica
+Espárrago,2023,Septiembre,7.00,6.30,7.70,5200,Ica
+Espárrago,2023,Octubre,6.85,6.15,7.55,4950,Ica
+Espárrago,2023,Noviembre,6.95,6.25,7.65,5100,Ica
+Espárrago,2023,Diciembre,6.75,6.05,7.45,4800,Ica
+Palta,2023,Enero,5.80,5.00,6.60,6800,Lima
+Palta,2023,Febrero,6.00,5.20,6.80,6500,Lima
+Palta,2023,Marzo,6.30,5.50,7.10,7800,Lima
+Palta,2023,Abril,6.60,5.80,7.40,9200,Lima
+Palta,2023,Mayo,7.00,6.20,7.80,10800,Lima
+Palta,2023,Junio,7.40,6.60,8.20,12200,Lima
+Palta,2023,Julio,7.00,6.20,7.80,11000,Lima
+Palta,2023,Agosto,6.60,5.80,7.40,9500,Lima
+Palta,2023,Septiembre,6.30,5.50,7.10,8200,Lima
+Palta,2023,Octubre,6.10,5.30,6.90,7500,Lima
+Palta,2023,Noviembre,6.20,5.40,7.00,7800,Lima
+Palta,2023,Diciembre,6.00,5.20,6.80,7200,Lima
+Café,2023,Enero,12.50,11.00,14.00,3800,Junín
+Café,2023,Febrero,13.00,11.50,14.50,3650,Junín
+Café,2023,Marzo,13.50,12.00,15.00,4200,Junín
+Café,2023,Abril,14.00,12.50,15.50,5100,Junín
+Café,2023,Mayo,14.50,13.00,16.00,6200,Junín
+Café,2023,Junio,15.00,13.50,16.50,7500,Junín
+Café,2023,Julio,14.50,13.00,16.00,6800,Junín
+Café,2023,Agosto,14.00,12.50,15.50,5800,Junín
+Café,2023,Septiembre,13.50,12.00,15.00,4800,Junín
+Café,2023,Octubre,13.20,11.70,14.70,4200,Junín
+Café,2023,Noviembre,13.40,11.90,14.90,4500,Junín
+Café,2023,Diciembre,13.00,11.50,14.50,4000,Junín
+Cacao,2023,Enero,10.50,9.50,11.50,2200,San Martín
+Cacao,2023,Febrero,11.00,10.00,12.00,2100,San Martín
+Cacao,2023,Marzo,11.50,10.50,12.50,2600,San Martín
+Cacao,2023,Abril,12.00,11.00,13.00,3200,San Martín
+Cacao,2023,Mayo,12.50,11.50,13.50,3800,San Martín
+Cacao,2023,Junio,13.00,12.00,14.00,4500,San Martín
+Cacao,2023,Julio,12.50,11.50,13.50,4100,San Martín
+Cacao,2023,Agosto,12.00,11.00,13.00,3500,San Martín
+Cacao,2023,Septiembre,11.50,10.50,12.50,2900,San Martín
+Cacao,2023,Octubre,11.20,10.20,12.20,2500,San Martín
+Cacao,2023,Noviembre,11.40,10.40,12.40,2700,San Martín
+Cacao,2023,Diciembre,11.00,10.00,12.00,2400,San Martín
+Algodón,2023,Enero,4.80,4.20,5.40,5800,Ica
+Algodón,2023,Febrero,5.00,4.40,5.60,5600,Ica
+Algodón,2023,Marzo,5.20,4.60,5.80,6500,Ica
+Algodón,2023,Abril,5.40,4.80,6.00,7800,Ica
+Algodón,2023,Mayo,5.60,5.00,6.20,8900,Ica
+Algodón,2023,Junio,5.80,5.20,6.40,9800,Ica
+Algodón,2023,Julio,5.60,5.00,6.20,9200,Ica
+Algodón,2023,Agosto,5.40,4.80,6.00,8200,Ica
+Algodón,2023,Septiembre,5.20,4.60,5.80,7100,Ica
+Algodón,2023,Octubre,5.10,4.50,5.70,6500,Ica
+Algodón,2023,Noviembre,5.15,4.55,5.75,6800,Ica
+Algodón,2023,Diciembre,5.05,4.45,5.65,6300,Ica
