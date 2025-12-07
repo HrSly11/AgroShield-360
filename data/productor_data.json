@@ -1,0 +1,18 @@
+{
+    "nombre_productor": "Juancito",
+    "ubicacion": "La Libertad",
+    "area_disponible": 5.0,
+    "tipo_cultivo": "Maíz",
+    "fecha_siembra": "2025-12-07",
+    "fecha_cosecha": "2026-12-31",
+    "duracion_dias": 389,
+    "precio_venta_esperado": 2.5,
+    "costo_mano_obra": 5000.0,
+    "costo_semillas": 1500.0,
+    "costo_fertilizantes": 2000.0,
+    "costo_agua": 800.0,
+    "costo_maquinaria": 3000.0,
+    "otros_costos": 1000.0,
+    "costo_total": 13300.0,
+    "fecha_registro": "2025-12-07T17:13:19.060306"
+}

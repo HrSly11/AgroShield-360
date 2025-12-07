@@ -1,0 +1,413 @@
+{
+  "regiones": [
+    {
+      "id": "lima",
+      "nombre": "Lima",
+      "region_natural": "Costa",
+      "latitud": -12.0464,
+      "longitud": -77.0428,
+      "altitud_promedio_msnm": 154,
+      "superficie_agricola_ha": 98500,
+      "clima_predominante": "Árido subtropical",
+      "temperatura_promedio_anual": 19.5,
+      "precipitacion_anual_mm": 25,
+      "indice_desarrollo_agricola": 8.5,
+      "acceso_mercados": "Muy Alto",
+      "infraestructura_riego": "Alta",
+      "disponibilidad_agua": "Media",
+      "principales_cultivos": ["Palta", "Maíz", "Espárrago", "Camote", "Hortalizas"],
+      "factores_riesgo": {
+        "sequia": 0.30,
+        "heladas": 0.10,
+        "inundaciones": 0.15,
+        "plagas": 0.25,
+        "sismos": 0.80
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": true,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "arequipa",
+      "nombre": "Arequipa",
+      "region_natural": "Costa-Sierra",
+      "latitud": -16.4090,
+      "longitud": -71.5375,
+      "altitud_promedio_msnm": 2335,
+      "superficie_agricola_ha": 76200,
+      "clima_predominante": "Seco templado",
+      "temperatura_promedio_anual": 13.5,
+      "precipitacion_anual_mm": 150,
+      "indice_desarrollo_agricola": 8.2,
+      "acceso_mercados": "Alto",
+      "infraestructura_riego": "Muy Alta",
+      "disponibilidad_agua": "Alta",
+      "principales_cultivos": ["Arroz", "Papa", "Maíz", "Cebolla", "Ajo"],
+      "factores_riesgo": {
+        "sequia": 0.40,
+        "heladas": 0.30,
+        "inundaciones": 0.10,
+        "plagas": 0.20,
+        "sismos": 0.85
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": true,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "la_libertad",
+      "nombre": "La Libertad",
+      "region_natural": "Costa-Sierra",
+      "latitud": -8.1116,
+      "longitud": -79.0288,
+      "altitud_promedio_msnm": 34,
+      "superficie_agricola_ha": 142500,
+      "clima_predominante": "Subtropical árido",
+      "temperatura_promedio_anual": 19.8,
+      "precipitacion_anual_mm": 120,
+      "indice_desarrollo_agricola": 8.8,
+      "acceso_mercados": "Muy Alto",
+      "infraestructura_riego": "Alta",
+      "disponibilidad_agua": "Media-Alta",
+      "principales_cultivos": ["Espárrago", "Caña de azúcar", "Arroz", "Maíz", "Palta"],
+      "factores_riesgo": {
+        "sequia": 0.25,
+        "heladas": 0.15,
+        "inundaciones": 0.25,
+        "plagas": 0.30,
+        "sismos": 0.70
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": true,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "lambayeque",
+      "nombre": "Lambayeque",
+      "region_natural": "Costa",
+      "latitud": -6.7011,
+      "longitud": -79.9061,
+      "altitud_promedio_msnm": 18,
+      "superficie_agricola_ha": 118600,
+      "clima_predominante": "Tropical árido",
+      "temperatura_promedio_anual": 23.5,
+      "precipitacion_anual_mm": 85,
+      "indice_desarrollo_agricola": 8.4,
+      "acceso_mercados": "Alto",
+      "infraestructura_riego": "Muy Alta",
+      "disponibilidad_agua": "Media",
+      "principales_cultivos": ["Arroz", "Caña de azúcar", "Maíz", "Algodón", "Menestras"],
+      "factores_riesgo": {
+        "sequia": 0.35,
+        "heladas": 0.05,
+        "inundaciones": 0.35,
+        "plagas": 0.35,
+        "sismos": 0.65
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": true,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "piura",
+      "nombre": "Piura",
+      "region_natural": "Costa",
+      "latitud": -5.1945,
+      "longitud": -80.6328,
+      "altitud_promedio_msnm": 29,
+      "superficie_agricola_ha": 156300,
+      "clima_predominante": "Tropical seco",
+      "temperatura_promedio_anual": 25.2,
+      "precipitacion_anual_mm": 95,
+      "indice_desarrollo_agricola": 7.8,
+      "acceso_mercados": "Alto",
+      "infraestructura_riego": "Media-Alta",
+      "disponibilidad_agua": "Baja-Media",
+      "principales_cultivos": ["Arroz", "Mango", "Limón", "Plátano", "Algodón"],
+      "factores_riesgo": {
+        "sequia": 0.45,
+        "heladas": 0.05,
+        "inundaciones": 0.40,
+        "plagas": 0.30,
+        "sismos": 0.60
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": true,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "ica",
+      "nombre": "Ica",
+      "region_natural": "Costa",
+      "latitud": -14.0678,
+      "longitud": -75.7286,
+      "altitud_promedio_msnm": 406,
+      "superficie_agricola_ha": 72800,
+      "clima_predominante": "Desértico subtropical",
+      "temperatura_promedio_anual": 22.0,
+      "precipitacion_anual_mm": 15,
+      "indice_desarrollo_agricola": 9.0,
+      "acceso_mercados": "Muy Alto",
+      "infraestructura_riego": "Muy Alta",
+      "disponibilidad_agua": "Media",
+      "principales_cultivos": ["Espárrago", "Palta", "Vid", "Algodón", "Pecanas"],
+      "factores_riesgo": {
+        "sequia": 0.50,
+        "heladas": 0.10,
+        "inundaciones": 0.08,
+        "plagas": 0.25,
+        "sismos": 0.85
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": true,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "junin",
+      "nombre": "Junín",
+      "region_natural": "Sierra-Selva",
+      "latitud": -12.0697,
+      "longitud": -75.2050,
+      "altitud_promedio_msnm": 3280,
+      "superficie_agricola_ha": 189400,
+      "clima_predominante": "Templado frío",
+      "temperatura_promedio_anual": 12.0,
+      "precipitacion_anual_mm": 850,
+      "indice_desarrollo_agricola": 7.2,
+      "acceso_mercados": "Medio-Alto",
+      "infraestructura_riego": "Media",
+      "disponibilidad_agua": "Alta",
+      "principales_cultivos": ["Papa", "Café", "Maíz", "Cacao", "Alcachofa"],
+      "factores_riesgo": {
+        "sequia": 0.20,
+        "heladas": 0.40,
+        "inundaciones": 0.30,
+        "plagas": 0.30,
+        "sismos": 0.70
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": false,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "cajamarca",
+      "nombre": "Cajamarca",
+      "region_natural": "Sierra",
+      "latitud": -7.1572,
+      "longitud": -78.5133,
+      "altitud_promedio_msnm": 2720,
+      "superficie_agricola_ha": 212500,
+      "clima_predominante": "Templado",
+      "temperatura_promedio_anual": 13.0,
+      "precipitacion_anual_mm": 720,
+      "indice_desarrollo_agricola": 6.5,
+      "acceso_mercados": "Medio",
+      "infraestructura_riego": "Baja-Media",
+      "disponibilidad_agua": "Media",
+      "principales_cultivos": ["Papa", "Trigo", "Maíz", "Café", "Menestras"],
+      "factores_riesgo": {
+        "sequia": 0.25,
+        "heladas": 0.35,
+        "inundaciones": 0.30,
+        "plagas": 0.35,
+        "sismos": 0.65
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": false,
+        "almacenamiento": false,
+        "transporte": true
+      }
+    },
+    {
+      "id": "cusco",
+      "nombre": "Cusco",
+      "region_natural": "Sierra-Selva",
+      "latitud": -13.5319,
+      "longitud": -71.9675,
+      "altitud_promedio_msnm": 3399,
+      "superficie_agricola_ha": 245800,
+      "clima_predominante": "Templado frío",
+      "temperatura_promedio_anual": 11.5,
+      "precipitacion_anual_mm": 680,
+      "indice_desarrollo_agricola": 6.8,
+      "acceso_mercados": "Medio",
+      "infraestructura_riego": "Baja-Media",
+      "disponibilidad_agua": "Media-Alta",
+      "principales_cultivos": ["Papa", "Maíz", "Café", "Cacao", "Quinua"],
+      "factores_riesgo": {
+        "sequia": 0.20,
+        "heladas": 0.50,
+        "inundaciones": 0.25,
+        "plagas": 0.25,
+        "sismos": 0.75
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": false,
+        "almacenamiento": false,
+        "transporte": true
+      }
+    },
+    {
+      "id": "ancash",
+      "nombre": "Ancash",
+      "region_natural": "Costa-Sierra",
+      "latitud": -9.5270,
+      "longitud": -77.5286,
+      "altitud_promedio_msnm": 3080,
+      "superficie_agricola_ha": 156200,
+      "clima_predominante": "Templado",
+      "temperatura_promedio_anual": 13.5,
+      "precipitacion_anual_mm": 520,
+      "indice_desarrollo_agricola": 7.0,
+      "acceso_mercados": "Medio-Alto",
+      "infraestructura_riego": "Media",
+      "disponibilidad_agua": "Media-Alta",
+      "principales_cultivos": ["Papa", "Trigo", "Maíz", "Cebada", "Olluco"],
+      "factores_riesgo": {
+        "sequia": 0.30,
+        "heladas": 0.40,
+        "inundaciones": 0.28,
+        "plagas": 0.30,
+        "sismos": 0.85
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": false,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    },
+    {
+      "id": "ayacucho",
+      "nombre": "Ayacucho",
+      "region_natural": "Sierra",
+      "latitud": -13.1638,
+      "longitud": -74.2231,
+      "altitud_promedio_msnm": 2746,
+      "superficie_agricola_ha": 178300,
+      "clima_predominante": "Templado seco",
+      "temperatura_promedio_anual": 13.0,
+      "precipitacion_anual_mm": 560,
+      "indice_desarrollo_agricola": 6.2,
+      "acceso_mercados": "Medio",
+      "infraestructura_riego": "Baja",
+      "disponibilidad_agua": "Media",
+      "principales_cultivos": ["Papa", "Maíz", "Quinua", "Trigo", "Habas"],
+      "factores_riesgo": {
+        "sequia": 0.35,
+        "heladas": 0.40,
+        "inundaciones": 0.22,
+        "plagas": 0.35,
+        "sismos": 0.70
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": false,
+        "seguro_agricola": false,
+        "almacenamiento": false,
+        "transporte": true
+      }
+    },
+    {
+      "id": "huanuco",
+      "nombre": "Huánuco",
+      "region_natural": "Sierra-Selva",
+      "latitud": -9.9306,
+      "longitud": -76.2422,
+      "altitud_promedio_msnm": 1912,
+      "superficie_agricola_ha": 134700,
+      "clima_predominante": "Templado húmedo",
+      "temperatura_promedio_anual": 15.0,
+      "precipitacion_anual_mm": 1150,
+      "indice_desarrollo_agricola": 6.5,
+      "acceso_mercados": "Medio",
+      "infraestructura_riego": "Baja-Media",
+      "disponibilidad_agua": "Alta",
+      "principales_cultivos": ["Papa", "Café", "Cacao", "Plátano", "Yuca"],
+      "factores_riesgo": {
+        "sequia": 0.20,
+        "heladas": 0.35,
+        "inundaciones": 0.38,
+        "plagas": 0.40,
+        "sismos": 0.75
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": false,
+        "almacenamiento": false,
+        "transporte": true
+      }
+    },
+    {
+      "id": "san_martin",
+      "nombre": "San Martín",
+      "region_natural": "Selva",
+      "latitud": -6.4853,
+      "longitud": -76.3645,
+      "altitud_promedio_msnm": 356,
+      "superficie_agricola_ha": 198500,
+      "clima_predominante": "Tropical húmedo",
+      "temperatura_promedio_anual": 24.5,
+      "precipitacion_anual_mm": 1850,
+      "indice_desarrollo_agricola": 7.5,
+      "acceso_mercados": "Medio-Alto",
+      "infraestructura_riego": "Media",
+      "disponibilidad_agua": "Muy Alta",
+      "principales_cultivos": ["Café", "Cacao", "Arroz", "Plátano", "Maíz"],
+      "factores_riesgo": {
+        "sequia": 0.10,
+        "heladas": 0.05,
+        "inundaciones": 0.45,
+        "plagas": 0.45,
+        "sismos": 0.60
+      },
+      "servicios_disponibles": {
+        "asistencia_tecnica": true,
+        "credito_agricola": true,
+        "seguro_agricola": false,
+        "almacenamiento": true,
+        "transporte": true
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "ultima_actualizacion": "2024-01-15",
+    "fuente": "INEI - Ministerio de Agricultura",
+    "notas": "Datos referenciales actualizados. Los índices pueden variar según la zona específica."
+  }
+}
