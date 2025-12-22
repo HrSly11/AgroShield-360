@@ -6,7 +6,7 @@ gestión de riesgos y análisis económico de proyectos agrícolas.
 
 Autor: AgroShield Team
 Versión: 1.0
-Fecha: 2024
+Fecha: 2025
 """
 
 import streamlit as st
@@ -279,7 +279,7 @@ def main():
     st.markdown("""
     <div style="text-align: center; padding: 20px; color: #666;">
         <p><strong>AgroShield 360</strong> - Sistema de Análisis Agrícola Integral</p>
-        <p>Versión 1.0 | © 2024 | Desarrollado para pequeños productores agrícolas del Perú</p>
+        <p>Versión 1.0 | © 2025 | Desarrollado para pequeños productores agrícolas del Perú</p>
     </div>
     """, unsafe_allow_html=True)
     
