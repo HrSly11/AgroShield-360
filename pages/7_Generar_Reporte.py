@@ -1,6 +1,7 @@
 import streamlit as st
 from datetime import datetime
 import json
+from pathlib import Path
 
 st.set_page_config(page_title="Generar Reporte", page_icon="📄", layout="wide")
 
@@ -459,6 +460,17 @@ with col5:
             'escenarios': {k: v for k, v in escenarios.items()},
             'recomendacion_final': recomendacion
         }
+
+        reporte_json["meta"] = {
+            "formato_origen": "json",
+            "fecha_generacion_iso": datetime.now().isoformat()
+        }
+        ruta_reporte = Path("reports/reporte_final.json")
+        ruta_reporte.parent.mkdir(exist_ok=True)
+
+        with open(ruta_reporte, "w", encoding="utf-8") as f:
+            json.dump(reporte_json, f, indent=2, ensure_ascii=False, default=str)
+
         
         st.download_button(
             label="📥 Descargar JSON",
